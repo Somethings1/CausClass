@@ -1,0 +1,20 @@
+[
+    {
+        "bin_id_sec": 0,
+        "hand-raising": 4,
+        "reading": 7
+    },
+    {
+        "bin_id_sec": 1,
+        "reading": 3,
+        "hand-raising": 6
+    },
+    {
+        "bin_id_sec": 2,
+        "hand-raising": 2,
+        "reading": 4
+    },
+    {
+        "bin_id_sec": 3
+    }
+]

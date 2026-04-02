@@ -1,0 +1,110 @@
+[
+    {
+        "object_id": 4,
+        "action": "hand-raising",
+        "start_time": 0.03,
+        "end_time": 0.27
+    },
+    {
+        "object_id": 4,
+        "action": "reading",
+        "start_time": 0.3,
+        "end_time": 0.6
+    },
+    {
+        "object_id": 6,
+        "action": "reading",
+        "start_time": 0.43,
+        "end_time": 1.2
+    },
+    {
+        "object_id": 5,
+        "action": "hand-raising",
+        "start_time": 0.03,
+        "end_time": 0.07
+    },
+    {
+        "object_id": 3,
+        "action": "reading",
+        "start_time": 0.03,
+        "end_time": 0.23
+    },
+    {
+        "object_id": 7,
+        "action": "reading",
+        "start_time": 0.47,
+        "end_time": 0.6
+    },
+    {
+        "object_id": 14,
+        "action": "reading",
+        "start_time": 0.93,
+        "end_time": 0.93
+    },
+    {
+        "object_id": 16,
+        "action": "hand-raising",
+        "start_time": 1.07,
+        "end_time": 1.1
+    },
+    {
+        "object_id": 17,
+        "action": "hand-raising",
+        "start_time": 1.2,
+        "end_time": 1.2
+    },
+    {
+        "object_id": 1,
+        "action": "reading",
+        "start_time": 0.03,
+        "end_time": 1.47
+    },
+    {
+        "object_id": 2,
+        "action": "hand-raising",
+        "start_time": 0.03,
+        "end_time": 2.23
+    },
+    {
+        "object_id": 4,
+        "action": "hand-raising",
+        "start_time": 0.87,
+        "end_time": 1.97
+    },
+    {
+        "object_id": 6,
+        "action": "hand-raising",
+        "start_time": 1.27,
+        "end_time": 1.83
+    },
+    {
+        "object_id": 12,
+        "action": "reading",
+        "start_time": 0.9,
+        "end_time": 2.03
+    },
+    {
+        "object_id": 15,
+        "action": "hand-raising",
+        "start_time": 1.07,
+        "end_time": 2.5
+    },
+    {
+        "object_id": 22,
+        "action": "reading",
+        "start_time": 2.37,
+        "end_time": 2.53
+    },
+    {
+        "object_id": 23,
+        "action": "reading",
+        "start_time": 2.6,
+        "end_time": 3.0
+    },
+    {
+        "object_id": 25,
+        "action": "reading",
+        "start_time": 2.97,
+        "end_time": 3.0
+    }
+]
