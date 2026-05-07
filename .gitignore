@@ -2,3 +2,5 @@ AERCA/datasets
 AERCA/logs
 AERCA/datasets
 data
+.env
+AERCA/.env
